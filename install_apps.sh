@@ -23,10 +23,8 @@ apps=("essential" "Essentials" on
       "zsh" "The Z-Shell (zsh)" on
       "neovim" "Neovim" on
       "urxvt" "URxvt" on
-      "firefox" "Firefox (browser)" off
-      "js" "JavaScript tooling" off
-      "qutebrowser" "Qutebrowser (browser)" off
-      "lynx" "Lynx (browser)" off)
+      "js" "JavaScript tooling" on
+      "misc" "Miscellaneous" on)
 
 dialog --checklist \
 "You can now choose what group of application you want to install. \n\n\

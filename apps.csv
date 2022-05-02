@@ -24,8 +24,6 @@ i3,i3-wm,i3 window tile manager
 i3,i3status,i3 status bar
 i3,i3lock,i3 lock monitor
 i3,dmenu,Dynamic menu for X
-i3,feh,X11 image viewer
-i3,arc-gtk-theme,Desktop themes
 zsh,zsh,Unix shell (Z-Shell)
 zsh,zsh-completions,Additional completions for Zsh
 zsh,zsh-syntax-highlighting,Syntax highlighting for ZSH
@@ -34,10 +32,11 @@ neovim,python-neovim,Python for neovim
 neovim,python2-neovim,Python2 for neovim (AUR)
 neovim,ruby-neovim,Ruby for neovim (AUR)
 neovim,nodejs-neovim,Nodejs for neovim (AUR)
-js,nodejs,Nodejs (for coc.vim)
-js,yarn,Dependency manager (for coc.vim)
+js,nvm,Node Version Manager
 urxvt,rxvt-unicode,Terminal Urxvt
 urxvt,urxvt-tabbedex-mina86-git,Improved tabs for Urxvt (AUR)
-firefox,firefox,Browser Firefox
-qutebrowser,qutebrowser,Qutebrowser
-lynx,lynx,Text-based browser
+misc,firefox,Browser Firefox
+misc,lynx,Text-based browser
+misc,qutebrowser,Qutebrowser
+misc,tldr,Command-line client for tldr pages
+misc,zathura-pdf-mupdf,PDF Reader
