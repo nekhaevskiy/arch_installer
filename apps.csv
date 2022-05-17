@@ -14,6 +14,7 @@ tools,lxappearance,Theme switcher for GTK+
 tools,xcape,Configure modifier keys to act as other keys
 tools,ripgrep,Faster alternative to grep
 tools,htop,Interactive process viewer
+tools,unzip,Extract compressed files in a ZIP archive
 tmux,tmux,Terminal multiplexer
 tmux,tmuxp,Configure tmux session + windows + panes via config files
 notifier,dunst,Notification system
@@ -35,6 +36,7 @@ neovim,nodejs-neovim,Nodejs for neovim (AUR)
 js,nvm,Node Version Manager
 urxvt,rxvt-unicode,Terminal Urxvt
 urxvt,urxvt-tabbedex-mina86-git,Improved tabs for Urxvt (AUR)
+misc,1password,1Password (AUR)
 misc,firefox,Browser Firefox
 misc,lynx,Text-based browser
 misc,qutebrowser,Qutebrowser
