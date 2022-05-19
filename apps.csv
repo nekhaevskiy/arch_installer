@@ -3,7 +3,10 @@ essential,xorg-xinit,Display server boot
 essential,man,Manual
 essential,man-pages,Manual pages
 network,openssh,Remote login tool for SSH protocol
-network,networkmanager,Network manager
+network,networkmanager,Network connection manager and user applications
+network,network-manager-applet,Applet for managing network connections
+network,openvpn,An easy-to-use robust and highly configurable VPN
+network,networkmanager-openvpn,NetworkManager VPN plugin for OpenVPN
 tools,rsync,Synchronizing files across computers
 tools,arandr,xrandr GUI
 tools,xsel,Manipulate the X selection
