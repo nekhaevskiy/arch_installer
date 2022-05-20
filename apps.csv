@@ -7,6 +7,11 @@ network,networkmanager,Network connection manager and user applications
 network,network-manager-applet,Applet for managing network connections
 network,openvpn,An easy-to-use robust and highly configurable VPN
 network,networkmanager-openvpn,NetworkManager VPN plugin for OpenVPN
+audio,bluez,Daemons for the bluetooth protocol stack
+audio,bluez-utils,Development and debugging utilities for the bluetooth
+audio,blueberry,Bluetooth configuration tool (system tray)
+audio,pipewire-pulse,Low-latency audio/video router and processor
+audio,pavucontrol,PulseAudio Volume Control
 tools,rsync,Synchronizing files across computers
 tools,arandr,xrandr GUI
 tools,xsel,Manipulate the X selection

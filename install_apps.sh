@@ -15,6 +15,7 @@ dialog --title "Welcome!" \
 # Allow the user to select the group of packages he (or she) wants to install.
 apps=("essential" "Essentials" on
       "network" "Network" on
+      "audio" "Audio" on
       "tools" "Nice tools to have (highly recommended)" on
       "tmux" "Tmux" on
       "notifier" "Notification tools" on
