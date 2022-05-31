@@ -44,7 +44,6 @@ neovim,ruby-neovim,Ruby for neovim (AUR)
 neovim,nodejs-neovim,Nodejs for neovim (AUR)
 js,nvm,Node Version Manager
 urxvt,rxvt-unicode,Terminal Urxvt
-urxvt,urxvt-tabbedex-mina86-git,Improved tabs for Urxvt (AUR)
 misc,1password,1Password (AUR)
 misc,firefox,Browser Firefox
 misc,lynx,Text-based browser
