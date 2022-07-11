@@ -46,8 +46,9 @@ js,nvm,Node Version Manager
 urxvt,rxvt-unicode,Terminal Urxvt
 misc,1password,1Password (AUR)
 misc,firefox,Browser Firefox
+misc,espanso,Text expander
 misc,lynx,Text-based browser
 misc,qutebrowser,Qutebrowser
 misc,tldr,Command-line client for tldr pages
-misc,vlc,Multi-platform MPEG/VCD/DVD/DivX player
+misc,vlc,MPEG/VCD/DVD/DivX player
 misc,zathura-pdf-mupdf,PDF Reader
