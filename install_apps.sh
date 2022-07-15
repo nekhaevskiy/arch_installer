@@ -12,20 +12,18 @@ dialog --title "Welcome!" \
 --msgbox "Welcome to the install script for your apps and dotfiles!" \
     10 60
 
-# Allow the user to select the group of packages he (or she) wants to install.
+# Allow users to select the group of packages they want to install.
 apps=("essential" "Essentials" on
-      "network" "Network" on
       "audio" "Audio" on
-      "tools" "Nice tools to have (highly recommended)" on
-      "tmux" "Tmux" on
-      "notifier" "Notification tools" on
       "git" "Git & git tools" on
       "i3" "i3 wm" on
-      "zsh" "The Z-Shell (zsh)" on
       "neovim" "Neovim" on
-      "urxvt" "URxvt" on
-      "js" "JavaScript tooling" on
-      "misc" "Miscellaneous" on)
+      "network" "Network" on
+      "notifier" "Notification tools" on
+      "tmux" "Tmux" on
+      "tools" "Nice tools to have" on
+      "zsh" "The Z-Shell (zsh)" on
+      "misc" "Miscellaneous apps" on)
 
 dialog --checklist \
 "You can now choose what group of application you want to install. \n\n\
