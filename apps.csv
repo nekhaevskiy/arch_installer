@@ -38,7 +38,7 @@ tools,lxappearance,Theme switcher for GTK+
 tools,nvm,Node Version Manager
 tools,ripgrep,Faster alternative to grep
 tools,rsync,Synchronizing files across computers
-tools,rxvt-unicode,Terminal Urxvt
+tools,alacritty,A cross-platform, GPU-accelerated terminal emulator
 tools,tldr,Command-line client for tldr pages
 tools,tree,A directory listing program
 tools,udiskie,Automount devices

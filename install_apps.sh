@@ -21,7 +21,7 @@ apps=("essential" "Essentials" on
       "network" "Network" on
       "notifier" "Notification tools" on
       "tmux" "Tmux" on
-      "tools" "Nice tools to have" on
+      "tools" "Tools" on
       "zsh" "The Z-Shell (zsh)" on
       "misc" "Miscellaneous apps" on)
 
