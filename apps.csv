@@ -18,6 +18,7 @@ i3,imagemagick,Displaying/Converting/Editing images
 i3,scrot,Screenshot software
 neovim,neovim,Editor... and much more
 neovim,nodejs-neovim,Nodejs for neovim (AUR)
+neovim,prettier,An opinionated code formatter for JS/JSON/CSS/YAML/...
 neovim,python-neovim,Python for neovim
 neovim,python2-neovim,Python2 for neovim (AUR)
 neovim,ruby-neovim,Ruby for neovim (AUR)
